@@ -5,7 +5,8 @@ golang based keylogger
 Sserver is node based so you need to install node on your machine 
 install the dependencines using npm install * npm start
 
-# client is Golang based and you need to init the envirnoment using go mod init main and go run to start and go build for 
+# client 
+client is Golang based and you need to init the envirnoment using go mod init main and go run to start and go build for 
 building the exe.
 
 
