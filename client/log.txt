@@ -1,0 +1,10 @@
+Operating System:	windows
+Hostname:	DESKTOP-VPEN56O
+Public Ip:	206.84.147.69
+Architecture:	amd64
+User Home Directory:	C:\Users\Skipper
+User Temp Directory:	C:\Users\Skipper\AppData\Local\Temp
+------------------------------------
+KEYS
+------------------------------------
+C ENTER_KEY 
